@@ -66,9 +66,11 @@ int main(int argc, char* argv[]){
             }
         }
 
-        else if ((strcmp(argv[i], "-e") == 0) || strcmp(argv[i], "--enumerar") == 0){
-            
-            printf("%stotal de archivos: %d%s\n", BOLD, get_total_archivos(argv[i + 1]), RESET);
+        else if (strcmp(argv[i], "-c") == 0 || strcmp(argv[i], "--contar-archivos") == 0){
+           
+            if ( (!(i + 1 >= argc)) ){
+                printf("%stotal de archivos: %lld%s\n", BOLD, get_total_archivos(argv[i + 1]), RESET);
+            }
         }
 
 
