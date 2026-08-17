@@ -1,0 +1,1 @@
+cmake --fresh -S . build
