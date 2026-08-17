@@ -1,0 +1,3 @@
+C:/Users/eduar/Documentos/c-c++/libzip_c/build/CMakeFiles/zip_cli.dir
+C:/Users/eduar/Documentos/c-c++/libzip_c/build/CMakeFiles/edit_cache.dir
+C:/Users/eduar/Documentos/c-c++/libzip_c/build/CMakeFiles/rebuild_cache.dir

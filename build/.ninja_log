@@ -1,0 +1,23 @@
+# ninja log v7
+16	236	8082741760468359	CMakeFiles/zip_cli.dir/src/eliminar_archivo.c.obj	821704768ee7516d
+29	215	8082741760597818	CMakeFiles/zip_cli.dir/src/listar_contenido.c.obj	57d557c132177ad7
+41	260	8082741760711836	CMakeFiles/zip_cli.dir/src/main.c.obj	8720e70ff6da4660
+57	250	8082741760896548	CMakeFiles/zip_cli.dir/src/cli/mostrar_contenido.c.obj	b3955611af41cd39
+8	811	8082741760337962	CMakeFiles/zip_cli.dir/src/abrir_zip.c.obj	4734d590d763d95
+49	827	8082741760783870	CMakeFiles/zip_cli.dir/src/cli/cli_help.c.obj	370170d90fcd828a
+828	1194	8082741768574677	C:/Users/eduar/Documentos/c-c++/libzip_c/bin/zip_cli.exe	560916cac19192ea
+67	287	8082741760973659	CMakeFiles/zip_cli.dir/src/cli/get_data.c.obj	cfa2dc5eee6f53fe
+76	265	8082741761068496	CMakeFiles/zip_cli.dir/src/utils/epoch_to_date.c.obj	596695e8ab0c9261
+85	277	8082741761163411	CMakeFiles/zip_cli.dir/src/cli/get_total_archivos.c.obj	cadee7a29a63fb91
+8	282	8082741914198821	build.ninja	57fa58423b139a54
+8	282	8082741914148428	C:/Users/eduar/Documentos/c-c++/libzip_c/build/cmake_install.cmake	57fa58423b139a54
+20	212	8082741935960099	CMakeFiles/zip_cli.dir/src/listar_contenido.c.obj	57d557c132177ad7
+12	217	8082741935862011	CMakeFiles/zip_cli.dir/src/eliminar_archivo.c.obj	821704768ee7516d
+63	232	8082741936433228	CMakeFiles/zip_cli.dir/src/utils/epoch_to_date.c.obj	596695e8ab0c9261
+48	240	8082741936282468	CMakeFiles/zip_cli.dir/src/cli/mostrar_contenido.c.obj	b3955611af41cd39
+31	242	8082741936070729	CMakeFiles/zip_cli.dir/src/main.c.obj	8720e70ff6da4660
+71	262	8082741936521203	CMakeFiles/zip_cli.dir/src/cli/get_total_archivos.c.obj	cadee7a29a63fb91
+56	271	8082741936359188	CMakeFiles/zip_cli.dir/src/cli/get_data.c.obj	cfa2dc5eee6f53fe
+7	777	8082741935862011	CMakeFiles/zip_cli.dir/src/abrir_zip.c.obj	4734d590d763d95
+39	803	8082741936199961	CMakeFiles/zip_cli.dir/src/cli/cli_help.c.obj	370170d90fcd828a
+804	1175	8082741943843245	C:/Users/eduar/Documentos/c-c++/libzip_c/bin/zip_cli.exe	560916cac19192ea
