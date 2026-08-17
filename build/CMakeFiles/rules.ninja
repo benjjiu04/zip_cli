@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\msys64\ucrt64\bin\cmake.exe --regenerate-during-build -SC:\Users\eduar\Documentos\c-c++\libzip_c -BC:\Users\eduar\Documentos\c-c++\libzip_c\build
+  command = C:\msys64\ucrt64\bin\cmake.exe --regenerate-during-build -SC:\Users\eduar\Documentos\c-c++\zip_cli -BC:\Users\eduar\Documentos\c-c++\zip_cli\build
   description = Re-running CMake...
   generator = 1
 

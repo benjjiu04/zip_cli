@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/Users/eduar/Documentos/c-c++/libzip_c/build/cmake_install.cmake"
+		"C:/Users/eduar/Documentos/c-c++/zip_cli/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
