@@ -13,7 +13,7 @@ void cli_help(){
    "\t\t  el primer argumento debe ser la ruta del archivo zip y el segundo el nombre del archivo.\n\n");
    printf("-h | --help:      obtener ayuda con los comandos.\n\n");
    printf("-g | --get-data:  obtiene metadatos de todos los archivo dentro de un archivo ZIP.\n\n");
-   printf("-e | --enumerar:  regresa la cantidad de archivos que hay dentro de un archivo ZIP.%s\n", RESET);
+   printf("-c | --contar-archivos:  regresa la cantidad de archivos que hay dentro de un archivo ZIP.%s\n", RESET);
    
    return;
 }
